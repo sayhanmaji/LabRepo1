@@ -1,0 +1,5 @@
+commit c2e1d9d3a75518d26cada1044be9913fc1611bce
+Author: sayhanmaji <sayhan.maji@gmail.com>
+Date:   Thu Aug 27 10:14:50 2026 +0400
+
+    Initial Creation of the readme text file and simple text edit.
